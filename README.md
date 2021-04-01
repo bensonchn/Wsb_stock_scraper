@@ -9,5 +9,7 @@ Conclusion: Currently the hottest stock is GME as of Feb 15 2021
 Some stopper words ('a'), slangs('CEO'), or mispelled words may be misinterpreted as tickers. Vader model can be improved with more updated version of words of today's standards.
 
 ## Example results:
+Post refers to the Reddit posts headline
 ![image](https://user-images.githubusercontent.com/25267825/113228887-dea98000-9263-11eb-85d1-f01e465c577f.png)
 
+In conclusion: We can see that GME was mentioned the most, however it has a less positive sentiment versus PLTR with 72% more.
