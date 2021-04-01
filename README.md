@@ -10,6 +10,10 @@ Vader sentiment model can be refined to be more custom to financial terms.
 
 There are a lot of words/slangs that are mistaken for tickers. Some stopper words ('a'), slangs('CEO'), or mispelled words for example, despite already remove many similar words from the list.
 
+## How to run it.
+On google colab, run all, you will be prompt to upload a csv file with all the nasdaq symbols (link will be provided)
+Reason for doing so, new company can be added from time to time, and keeping a static csv file not count those newer stocks
+
 ## Example results:
 Post refers to the Reddit posts headline
 We can see that GME was mentioned the most, however it has a less positive sentiment versus PLTR with 72% more.
