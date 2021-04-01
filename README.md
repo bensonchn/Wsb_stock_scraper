@@ -7,7 +7,8 @@ Conclusion: Currently the hottest stock is GME as of Feb 15 2021
 
 ## Needed Improvements 
 Vader sentiment model can be refined to be more custom to financial terms.
-There are a lot of words/slangs that are mistaken for tickers. Some stopper words ('a'), slangs('CEO'), or mispelled words for example.
+
+There are a lot of words/slangs that are mistaken for tickers. Some stopper words ('a'), slangs('CEO'), or mispelled words for example, despite already remove many similar words from the list.
 
 ## Example results:
 Post refers to the Reddit posts headline
