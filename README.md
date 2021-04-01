@@ -1,7 +1,7 @@
 # Wsb_stock_scraper
 
 ## What does it do?
-Scrape reddit posts to see which common stock is the hottest based on term frequency. Pages visited is /wallstreetbets with 1.1million subcribed users (still increasing as we speak) This will be scraping hottest post. Desired number of post can be changed, and type (newest, hottest, top) of post can be changed.
+Scrape reddit posts to see which stock is the most mentioned based on term frequency. Pages visited is /wallstreetbets with 1.1million subcribed users (still increasing as we speak) This will be scraping hottest post. Desired number of post can be changed, and type (newest, hottest, top) of post can be changed.
 
 Conclusion: Currently the hottest stock is GME as of Feb 15 2021
 
