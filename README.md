@@ -10,7 +10,9 @@ Some stopper words ('a'), slangs('CEO'), or mispelled words may be misinterprete
 
 ## Example results:
 Post refers to the Reddit posts headline
+We can see that GME was mentioned the most, however it has a less positive sentiment versus PLTR with 72% more.
+Note: this is 2 hottest posts on Feb 14, 2021, and it's average sentiment
 
 ![image](https://user-images.githubusercontent.com/25267825/113228887-dea98000-9263-11eb-85d1-f01e465c577f.png)
 
-In conclusion: We can see that GME was mentioned the most, however it has a less positive sentiment versus PLTR with 72% more.
+
