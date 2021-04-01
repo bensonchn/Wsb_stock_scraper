@@ -6,7 +6,8 @@ Scrape reddit posts to see which stock is the most mentioned based on term frequ
 Conclusion: Currently the hottest stock is GME as of Feb 15 2021
 
 ## Needed Improvements 
-Some stopper words ('a'), slangs('CEO'), or mispelled words may be misinterpreted as tickers. Vader model can be improved with more updated version of words of today's standards.
+Vader sentiment model can be refined to be more custom to financial terms.
+There are a lot of words/slangs that are mistaken for tickers. Some stopper words ('a'), slangs('CEO'), or mispelled words for example.
 
 ## Example results:
 Post refers to the Reddit posts headline
