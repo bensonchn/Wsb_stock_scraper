@@ -18,11 +18,11 @@ Reason for doing so, new company can be added from time to time, and keeping a s
 Post refers to the Reddit posts headline
 We can see that GME was mentioned the most, however it has a less positive sentiment versus PLTR with 72% more.
 
-This is 2 hottest posts on Feb 14, 2021
+```This is 2 hottest posts on Feb 14, 2021```
 
 ![image](https://user-images.githubusercontent.com/25267825/113228887-dea98000-9263-11eb-85d1-f01e465c577f.png)
 
-This is 3 hottest post on Mar 31, 2021
+```This is 3 hottest post on Mar 31, 2021```
 
 ![image](https://user-images.githubusercontent.com/25267825/113230403-ee769380-9266-11eb-98e8-47f791361704.png)
 
